@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Add this to your existing App.css file */
+
+.ini {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  min-width: 250px; /* Adjust this value as needed */
+  padding: 0 5px;
+}
+
+.cur {
+  margin-left: 5px;
+}
